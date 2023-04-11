@@ -3,6 +3,6 @@
   I study in Tomsk State University of Control Systems and Radioelectronics.
 - 👀 I’m interested in C++ / Java
 - 🌱 I’m currently learning C++ / Kotlin
-- 💞️ I’m looking to collaborate on C++ / Java projects or ,maybe, some junior/trainee job
+- 💞️ I’m looking to collaborate on C++ / Kotlin projects or ,maybe, some junior/trainee job
 - 📫 How to reach me 3036662@gmail.com 
 
